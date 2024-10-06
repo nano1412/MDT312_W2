@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(54, 54, 54)
+}
+
+hr{
+    height: 10px;
+    color: aliceblue;
+    background-color: aliceblue;
+    border: none;
+}
+
+p{
+    color: aliceblue;
+}
+
+div > p{
+    color: antiquewhite;
+    font-size: 10px;
+}
+
+a{
+    color: aqua;
+}
+
+ul{
+    color: aliceblue;
+    font-weight: bold;
+    font-style: italic;
+    /*center block*/
+    width: 200px;
+    margin: auto;
+}
+
+/*#maxwell{
+    width: 10%;
+}*/
+
+#header{
+    text-align: center;
+    color: aquamarine;
+    border-style: dashed;
+    border-radius: 32px;
+    border-color: aliceblue;
+}
+
+.CenterDiv{
+    text-align: center;
+}
